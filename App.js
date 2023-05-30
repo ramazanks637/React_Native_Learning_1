@@ -72,6 +72,9 @@ const data = [
 
 
 
+
+
+
 const App = () => {
   return (
     <SafeAreaView style={styles.background}>
